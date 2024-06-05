@@ -1,0 +1,10 @@
+{
+    "destination": "Manchester",
+    "checkin_date": "2024-06-06",
+    "checkout_date": "2024-06-15",
+    "group_adults": 2,
+    "no_rooms": 1,
+    "group_children": "0",
+    "expected_screen_scrolls": 10,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+}
